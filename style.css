@@ -8,6 +8,9 @@
 body {
   height: 100vh;
   background: url(waterfall-37088.mp4);
+  background-position: center;
+  max-width: 100%;
+  min-height: 50%;
 }
 .clock {
   border: #ffffffa8;
